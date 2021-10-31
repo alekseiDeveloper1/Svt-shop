@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/tasks-manager/static/js/main.be555ede.chunk.js",
-    "main.js.map": "/tasks-manager/static/js/main.be555ede.chunk.js.map",
-    "runtime-main.js": "/tasks-manager/static/js/runtime-main.0e2c72dc.js",
-    "runtime-main.js.map": "/tasks-manager/static/js/runtime-main.0e2c72dc.js.map",
-    "static/js/2.11cc3739.chunk.js": "/tasks-manager/static/js/2.11cc3739.chunk.js",
-    "static/js/2.11cc3739.chunk.js.map": "/tasks-manager/static/js/2.11cc3739.chunk.js.map",
-    "index.html": "/tasks-manager/index.html",
-    "static/js/2.11cc3739.chunk.js.LICENSE.txt": "/tasks-manager/static/js/2.11cc3739.chunk.js.LICENSE.txt"
+    "main.js": "/Svt-shop/static/js/main.be555ede.chunk.js",
+    "main.js.map": "/Svt-shop/static/js/main.be555ede.chunk.js.map",
+    "runtime-main.js": "/Svt-shop/static/js/runtime-main.ee1125db.js",
+    "runtime-main.js.map": "/Svt-shop/static/js/runtime-main.ee1125db.js.map",
+    "static/js/2.11cc3739.chunk.js": "/Svt-shop/static/js/2.11cc3739.chunk.js",
+    "static/js/2.11cc3739.chunk.js.map": "/Svt-shop/static/js/2.11cc3739.chunk.js.map",
+    "index.html": "/Svt-shop/index.html",
+    "static/js/2.11cc3739.chunk.js.LICENSE.txt": "/Svt-shop/static/js/2.11cc3739.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e2c72dc.js",
+    "static/js/runtime-main.ee1125db.js",
     "static/js/2.11cc3739.chunk.js",
     "static/js/main.be555ede.chunk.js"
   ]
