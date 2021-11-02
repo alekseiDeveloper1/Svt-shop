@@ -10,7 +10,6 @@ const DevisePage = () => {
     {id:3,title: 'Made', description: 'Brazil'},
     {id:4,title: 'Size Rocks', description: '1'},
     {id:5,title: 'weight', description: '7'},
-
   ]
   return (
     <Container className='mt-3'>
