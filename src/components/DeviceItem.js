@@ -12,7 +12,7 @@ const DeviceItem = ({device}) => {
       <Card style={{width: 150, cursor: "pointer"}} border={'light'}>
         <Image width={150} height={150} src={device.img}/>
         <div className='text-black-50 mt-1 d-flex justify-content-between align-items-center'>
-          <div>Samsung...</div>
+          <div>Stone jewelry</div>
           <div className="d-flex align-items-center">
             <div>{device.rating}</div>
             <Image width={18} height={18} src={star}/>

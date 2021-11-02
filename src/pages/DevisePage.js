@@ -1,14 +1,15 @@
 import React from 'react';
 import {Button, Card, Image, Row, Col, Container} from 'react-bootstrap';
 import bigStar from '../assets/bigStar.png'
+import src from '../assets/img/1.jpg'
 const DevisePage = () => {
-  const device = {id: 1, name: 'Iphone 12 pro', price: 25000, rating: 5, img: 'https://www.purposechurch.com/wp-content/uploads/2017/10/fpo400x300.png'}
+  const device = {id: 1, name: 'Amethyst', price: 2500, rating: 5, img: src}
   const description = [
-    {id:1,title: 'Оперативная память', description: '5 гб'},
-    {id:2,title: 'Камера', description: '12 гб'},
-    {id:3,title: 'Процессор', description: 'Пентиум 3'},
-    {id:4,title: 'Кол-во ядер', description: '2'},
-    {id:5,title: 'Аккумулятор', description: '4000'},
+    {id:1,title: 'Size', description: '17'},
+    {id:2,title: 'Rock', description: 'Amethyst'},
+    {id:3,title: 'Made', description: 'Brazil'},
+    {id:4,title: 'Size Rocks', description: '1'},
+    {id:5,title: 'weight', description: '7'},
 
   ]
   return (

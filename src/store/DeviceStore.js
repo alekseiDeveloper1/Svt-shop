@@ -1,26 +1,30 @@
 import { makeAutoObservable } from 'mobx'
+import src1 from '../assets/img/1.jpg'
+import src2 from '../assets/img/2.jpg'
+import src3 from '../assets/img/3.jpg'
+
 
 export default class DeviceStore {
   constructor() {
     this._types = [
-      {id: 1, name: 'Холодильники'},
-      {id: 2, name: 'смартфоны'},
-      {id: 3, name: 'Ноутбуки'},
-      {id: 4, name: 'Телевизоры'},
+      {id: 1, name: 'Stone jewelry'},
+      {id: 2, name: 'Handmade decorations'},
+      {id: 3, name: 'Books'},
+      {id: 4, name: 'For kids'},
     ]
     this._brands = [
-      {id: 1, name: 'Samsung'},
-      {id: 2, name: 'Apple'},
-      {id: 3, name: 'Lenovo'},
-      {id: 4, name: 'Asus'},
+      {id: 1, name: 'Hits'},
+      {id: 2, name: 'Novelties'},
+      {id: 3, name: 'About us'},
+      {id: 4, name: 'Reviews'},
     ]
     this._devices = [
-      {id: 1, name: 'Iphone 12 pro', price: 25000, rating: 5, img: '../assets/img/1.jpg'},
-      {id: 2, name: 'Iphone 12 pro', price: 25000, rating: 5, img: '../assets/img/2.jpg'},
-      {id: 3, name: 'Iphone 12 pro', price: 25000, rating: 5, img: '../assets/img/3.jpg'},
-      {id: 4, name: 'Iphone 12 pro', price: 25000, rating: 5, img: '../assets/img/1.jpg'},
-      {id: 5, name: 'Iphone 12 pro', price: 25000, rating: 5, img: '../assets/img/2.jpg'},
-      {id: 6, name: 'Iphone 12 pro', price: 25000, rating: 5, img: '../assets/img/3.jpg'},
+      {id: 1, name: 'Amethyst', price: 2500, rating: 5, img: src1},
+      {id: 2, name: 'Brazilian agate', price: 3000, rating: 4, img: src2},
+      {id: 3, name: 'Red jasper', price: 2700, rating: 5, img: src3},
+      {id: 1, name: 'Amethyst', price: 2500, rating: 5, img: src1},
+      {id: 2, name: 'Brazilian agate', price: 3000, rating: 4, img: src2},
+      {id: 3, name: 'Red jasper', price: 2700, rating: 5, img: src3},
     ]
     this._selectedType = {}
     this._selectedBrand = {}
