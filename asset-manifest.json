@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/Svt-shop/static/js/main.be555ede.chunk.js",
-    "main.js.map": "/Svt-shop/static/js/main.be555ede.chunk.js.map",
+    "main.js": "/Svt-shop/static/js/main.a3753c3b.chunk.js",
+    "main.js.map": "/Svt-shop/static/js/main.a3753c3b.chunk.js.map",
     "runtime-main.js": "/Svt-shop/static/js/runtime-main.ee1125db.js",
     "runtime-main.js.map": "/Svt-shop/static/js/runtime-main.ee1125db.js.map",
     "static/js/2.11cc3739.chunk.js": "/Svt-shop/static/js/2.11cc3739.chunk.js",
     "static/js/2.11cc3739.chunk.js.map": "/Svt-shop/static/js/2.11cc3739.chunk.js.map",
     "index.html": "/Svt-shop/index.html",
-    "static/js/2.11cc3739.chunk.js.LICENSE.txt": "/Svt-shop/static/js/2.11cc3739.chunk.js.LICENSE.txt"
+    "static/js/2.11cc3739.chunk.js.LICENSE.txt": "/Svt-shop/static/js/2.11cc3739.chunk.js.LICENSE.txt",
+    "static/media/1.5584b82e.jpg": "/Svt-shop/static/media/1.5584b82e.jpg",
+    "static/media/2.1a3ce0b5.jpg": "/Svt-shop/static/media/2.1a3ce0b5.jpg",
+    "static/media/3.318be204.jpg": "/Svt-shop/static/media/3.318be204.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ee1125db.js",
     "static/js/2.11cc3739.chunk.js",
-    "static/js/main.be555ede.chunk.js"
+    "static/js/main.a3753c3b.chunk.js"
   ]
 }
